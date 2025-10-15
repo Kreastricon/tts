@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "tts",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2a7d4118-5b95-45ec-8132-aeb5d02d440d",
+      "database_name": "DBD1Database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
